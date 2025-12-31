@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int n,score,a=0,b=0,c=0,d=0,f=0;
+    int score,a=0,b=0,c=0,d=0,f=0;
     while (1==1){
         scanf("%d",&score);
         if (score == -1){
